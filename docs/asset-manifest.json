@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/martinsflirm/login_to_view/static/css/main.e7a9f6a2.css",
+    "main.js": "/martinsflirm/login_to_view/static/js/main.6959289e.js",
+    "static/js/453.6210256e.chunk.js": "/martinsflirm/login_to_view/static/js/453.6210256e.chunk.js",
+    "index.html": "/martinsflirm/login_to_view/index.html",
+    "main.e7a9f6a2.css.map": "/martinsflirm/login_to_view/static/css/main.e7a9f6a2.css.map",
+    "main.6959289e.js.map": "/martinsflirm/login_to_view/static/js/main.6959289e.js.map",
+    "453.6210256e.chunk.js.map": "/martinsflirm/login_to_view/static/js/453.6210256e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e7a9f6a2.css",
+    "static/js/main.6959289e.js"
+  ]
+}
